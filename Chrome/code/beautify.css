@@ -1,0 +1,12 @@
+.content {
+	width: 100% !important;
+}
+
+#main {
+	width: 100% !important;
+}
+
+#right_side {
+	width: 75% !important;
+	min-width: 730px;
+}
