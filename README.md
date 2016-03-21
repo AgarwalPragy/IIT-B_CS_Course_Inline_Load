@@ -2,7 +2,7 @@
 A Chrome browser extension to load IIT-B CS Course "More Info" links inline.
 -- --
 
-Install the extension from here:
+Install the extension from here: https://goo.gl/VwqH8p
 
 
 Goto any IIT-B CS course page (Eg. [Spring Course List](https://www.cse.iitb.ac.in/page137))
